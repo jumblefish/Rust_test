@@ -1,2 +1,4 @@
 [dependencies]
-bevy = "0.13" # Or the latest version
+bevy = "0.13"
+rfd = "0.14"
+crossbeam-channel = "0.5"
