@@ -1,0 +1,2 @@
+[dependencies]
+bevy = "0.13" # Or the latest version
